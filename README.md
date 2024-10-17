@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abinesh</h1>
 
 - 👩🏻‍💻 Data Scientist sharing about my journey in tech</h3>
-- 👩🏻‍🎓 Studied Data Science at SRM University 
+- 👩🏻‍🎓 Studied Data Science at SRM University
+- 💻 Experience in AI Machine Learning and Big Data
 - 📫 How to reach me **abinesh3200@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
