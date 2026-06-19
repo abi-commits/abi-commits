@@ -2,9 +2,9 @@
 
 AI Engineer working at the intersection of agentic systems, production infrastructure, and real-world AI deployment.
 
-I design and build multi-agent orchestration pipelines, RAG engines, and voice AI systems — systems that are meant to run in production, not just in notebooks.
+I design and build production-oriented AI systems with a focus on agent orchestration, retrieval architectures, real-time voice pipelines, and AI infrastructure.
 
-Currently open to AI Engineer roles in Europe (Germany / Netherlands).
+My work spans multi-agent systems, retrieval-augmented generation (RAG), low-latency voice AI, reasoning workflows, and deployment-ready AI services built with Python and modern cloud-native tooling.
 
 ---
 
@@ -56,7 +56,14 @@ Currently open to AI Engineer roles in Europe (Germany / Netherlands).
 - ORCID: [0009-0006-2504-129X](https://orcid.org/0009-0006-2504-129X)
 
 ---
+## Collaboration
 
-## Open to
+I am interested in collaborating on:
 
-AI Engineer and Agentic AI roles in Europe (Germany, Netherlands, Ireland). Available for full-time, contract, and consulting engagements. Reach me at abinesh3200@gmail.com.
+Agentic AI systems
+Enterprise RAG platforms
+Voice AI infrastructure
+Open-source AI tooling
+Applied AI architecture projects
+
+Reach out through LinkedIn or GitHub discussions.
