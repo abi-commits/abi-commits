@@ -9,15 +9,17 @@ I work at the intersection of AI engineering, system design, and production depl
 My long-term goal is to design intelligent systems that operate reliably at scale rather than simply building model demos.
 
 ---
+
 ## Core Technologies
 
-Agentic AI · LangGraph · RAG
-
-Python · FastAPI · OpenAI
-
-Docker · Kubernetes · AWS
-
-Qdrant · Observability · AI Infrastructure
+- Agentic AI Systems
+- Multi-Agent Architectures
+- Retrieval-Augmented Generation (RAG)
+- Voice AI Applications
+- Production AI Infrastructure
+- AI System Design
+- Context Engineering
+- Observability & Evaluation
 
 ---
 
