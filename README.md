@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/a1ca6c3a-964c-405b-b020-7999716a1ad0" />
+
 # Abinesh U
 
 AI Engineer focused on building agentic AI systems, production AI applications, and scalable AI infrastructure.
@@ -5,6 +7,17 @@ AI Engineer focused on building agentic AI systems, production AI applications, 
 I work at the intersection of AI engineering, system design, and production deployment. My focus is transforming foundation models into reliable products through orchestration, retrieval systems, observability, infrastructure, and engineering best practices.
 
 My long-term goal is to design intelligent systems that operate reliably at scale rather than simply building model demos.
+
+---
+## Core Technologies
+
+Agentic AI · LangGraph · RAG
+
+Python · FastAPI · OpenAI
+
+Docker · Kubernetes · AWS
+
+Qdrant · Observability · AI Infrastructure
 
 ---
 
@@ -50,7 +63,7 @@ I believe the future of AI engineering is not only about building better models 
 
 ---
 
-## Technology Stack
+## ## Areas of Expertise
 
 ### AI Orchestration
 LangGraph · LangChain · Multi-Agent Systems
